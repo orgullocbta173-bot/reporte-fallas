@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* El resto de tus clases de abajo se quedan exactamente igual */
+.input-field {
+    @apply transition-all duration-200 ease-in-out;
+}
+...
